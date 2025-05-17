@@ -1,0 +1,2 @@
+[2025-05-18 01:32:27] +6281247312272 — Jaras_NPC.csv | Success - Message sent or in progress.
+[2025-05-18 01:32:39] +628180831159 —  Jaras_NPC.csv | ⚠️ Error - Number not registered on WhatsApp.

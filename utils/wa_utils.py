@@ -6,8 +6,6 @@ error_images = {
     "images_invalid/error_starting_chat.png": "WhatsApp failed to start the chat."
 }
 
-
-
 def detect_whatsapp_error(File_name,confidence=0.8, grayscale=True):
     """
     Scan screen for known WhatsApp error images.
@@ -16,7 +14,7 @@ def detect_whatsapp_error(File_name,confidence=0.8, grayscale=True):
     for path, message in error_images.items():
         try:
             if pyautogui.locateOnScreen(path, confidence=confidence, grayscale=grayscale):
-                return f" {File_name} | ⚠️ Error - {message}"
+                return f"{File_name} | ⚠️ Error - {message}"
         except pyautogui.ImageNotFoundException:
             continue
         except Exception as e:
