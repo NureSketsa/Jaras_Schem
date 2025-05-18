@@ -1,4 +1,0 @@
-[2025-05-18 16:14:31] WARNING - Row 1 missing 'email' field. Skipped.
-[2025-05-18 16:14:31] WARNING - Row 2 missing 'email' field. Skipped.
-[2025-05-18 16:16:22] ERROR - 1. Failed to send to daffanurrahman053@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-b26eaf6fd3bsm4271937a12.23 - gsmtp')
-[2025-05-18 16:20:16] INFO - 1. Email sent to daffanurrahman053@gmail.com
