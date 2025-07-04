@@ -1,0 +1,28 @@
+[2025-07-04 18:48:02] +6281247312272 — SUCCESS
+[2025-07-04 19:00:52] +6281247312272 — SUCCESS
+[2025-07-04 19:01:13] +628180831159 — ERROR sending image: sleep length must be non-negative
+[2025-07-04 19:01:49] +6281247312272 — ERROR sending image: sleep length must be non-negative
+[2025-07-04 19:04:29] +6281247312272 — SUCCESS
+[2025-07-04 19:06:48] +6281247312272 — SUCCESS
+[2025-07-04 19:07:00] +6285156136144 — SUCCESS
+[2025-07-04 19:07:12] +6281227303969 — SUCCESS
+[2025-07-04 19:10:16] +6281247312272 — SUCCESS
+[2025-07-04 19:10:36] +6285156136144 — SUCCESS
+[2025-07-04 19:10:57] +6281227303969 — SUCCESS
+[2025-07-04 19:15:28] +6281247312272 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:15:48] +628180831159 — Jaras_NPC_with_images.csv | ⚠️ Error - Number not registered on WhatsApp.
+[2025-07-04 19:16:09] +6281227303969 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:34:53] +6281247312272 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:35:13] +628180831159 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:35:34] +6281227303969 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:37:45] +6281247312272 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:38:06] +628180831159 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:38:26] +6281227303969 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:40:27] +6281247312272 — Jaras_NPC.csv | Success - Message sent or in progress.
+[2025-07-04 19:40:40] +628180831159 — Jaras_NPC.csv | ⚠️ Error - Number not registered on WhatsApp.
+[2025-07-04 19:42:17] +6281247312272 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:42:37] +628180831159 — Jaras_NPC_with_images.csv | ⚠️ Error - Number not registered on WhatsApp.
+[2025-07-04 19:42:58] +6281227303969 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:44:07] +6281247312272 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
+[2025-07-04 19:44:28] +628180831159 — Jaras_NPC_with_images.csv | ⚠️ Error - Number not registered on WhatsApp.
+[2025-07-04 19:44:49] +6281227303969 — Jaras_NPC_with_images.csv | Success - Message sent or in progress.
