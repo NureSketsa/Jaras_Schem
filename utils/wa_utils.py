@@ -36,5 +36,7 @@ def fixNumber(s: str):
 log_file = "output/wa_log.txt"
 
 def log_status(number, status):
+    print(f"sent to {number} — {status}")
     with open(log_file, "a", encoding="utf-8") as log:
         log.write(f"[{datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {number} — {status}\n")
+        
