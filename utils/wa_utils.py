@@ -19,7 +19,13 @@ def detect_whatsapp_error(File_name, confidence=0.8, grayscale=True):
             print(f"Unexpected error checking {path}: {e}")
             continue
 
-    return f"{File_name} | Success - Message sent or in progress."
+    path = "images_invalid/success_no_draft.png"
+
+    try:
+        if pyautogui.locateOnScreen(path, confidence=confidence, grayscale=grayscale):
+            return f"{File_name} | Success - Message sent or in progress."
+    except pyautogui.ImageNotFoundException:
+        return f"{File_name} | ⚠️ Error - Draft message not sent."
 
 
 def fixNumber(s: str):
